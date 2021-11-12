@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Ashikujjaman Shaikat.
 #### WEB DEVELOPER.
-![WEB DEVELOPER.](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/p640x640/247887142_3067232763556714_7164022203343894430_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFx0xn6ZnecVHU7UGBvccVPBFurnXmvA3QEW6udea8DdMG4Y2yiFvMC7qNdQamvMN6wlA7s7DfFblfKbDGusBDS&_nc_ohc=1JWdDmSDcioAX_2a8Sy&_nc_ht=scontent.fdac135-1.fna&oh=9101891988f95a2ae86dc18fbfef4dbd&oe=6193C51C)
 
 I have been interesting to develop a new website with new features. I can handle complications with my dedication. I like to learn new things and have so much curiosity about Web Development. 
 
