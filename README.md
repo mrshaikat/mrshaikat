@@ -3,7 +3,7 @@
 
 I have been interesting to develop a new website with new features. I can handle complications with my dedication. I like to learn new things and have so much curiosity about Web Development. 
 
-<h4>Skills: VUE JS / JS / HTML / CSS/PHP/ DATA STRUCTURE / OOP/ MYSQL / LARAVEL / BOOTSTRAP / TAILWIND CSS / C / PROBLEM SOLVING </h4>
+<h4>Skills: VUE JS / JS / HTML / CSS / PHP / DATA STRUCTURE / OOP/ MYSQL / LARAVEL / BOOTSTRAP / TAILWIND CSS / C / PROBLEM SOLVING </h4>
 
 - 🔭 I’m currently working on Laravel. 
 - 💬 Ask me about Web Development. 
