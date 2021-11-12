@@ -5,8 +5,8 @@ I have been interesting to develop a new website with new features. I can handle
 
 Skills: VUE JS/ JS / HTML / CSS/PHP/ DATA STRUCTURE / OOP/ MYSQL / LARAVEL / BOOTSTRAP / TAILWIND CSS / C / PROBLEM SOLVING
 
-- 🔭 I’m currently working on Laravel 
-- 💬 Ask me about Web Development 
+- 🔭 I’m currently working on Laravel. 
+- 💬 Ask me about Web Development. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrshaikat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shaikat63/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.maaitgroup.com/)  
