@@ -4,15 +4,15 @@
 I have been interesting to develop a new website with new features. I can handle complications with my dedication. I like to learn new things and have so much curiosity about Web Development. 
 
 <h4>Skills: VUE JS / JS / HTML / CSS / PHP / DATA STRUCTURE / OOP/ MYSQL / LARAVEL / BOOTSTRAP / TAILWIND CSS / C / PROBLEM SOLVING </h4>
-- 🔭 I’m currently working on Laravel. 
+- 🔭 I’m currently working on Laravel. <br>
 - 💬 Ask me about Web Development. 
 
 <h2>Project</h2>
 <b>Fully Responsive Design (Html + CSS + jQuery Project + JavaScript) </b> <br>
-      Visit: https://bookingsystem.cart.maaitgroup.com/ <br>
-      Visit: https://fullyresponsive1demoproject.maaitgroup.com/ <br>
-      Visit: https://fullyresponsive2demoproject.maaitgroup.com/ <br>
-      Visit: https://fullyresponsive3demoproject.maaitgroup.com/ <br> <br>
+      - Visit: https://bookingsystem.cart.maaitgroup.com/ <br>
+      - Visit: https://fullyresponsive1demoproject.maaitgroup.com/ <br>
+      - Visit: https://fullyresponsive2demoproject.maaitgroup.com/ <br>
+      - Visit: https://fullyresponsive3demoproject.maaitgroup.com/ <br> <br>
 
 <b>Inventory Management System with POS (Laravel)</b> <br>
 Visit: https://inventory.maaitgroup.com <br>
@@ -35,8 +35,10 @@ Visit: https://newsblog.maaitgroup.com <br>
       - Share news by social media <br>
       - Search news by category or navbar search option <br> <br>
       
-     <b>Bank Management System built by C programming language(C)</b> <br>
-      Visit: https://github.com/mrshaikat/bankmanagement-system-with-c-programming <br>
+ <b>Bank Management System built by C programming language(C) </b> <br>
+      - Visit: https://github.com/mrshaikat/bankmanagement-system-with-c-programming <br> <br>
+      
+      <hr>
 
 
 
