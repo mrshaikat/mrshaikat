@@ -24,16 +24,16 @@ Visit: https://inventory.maaitgroup.com <br>
       • Shop setting, Daily, Monthly and Yearly expense. <br>
       • Employee’s attendance and salary details. <br>
 
-<b>News blog + User can create company profile (Laravel)</b>
-Visit: https://newsblog.maaitgroup.com
-      • Fully dynamic news blog
-      • Admin can create news and update all information this site and accept and reject user
-      company profile and admin update user company info
-      • User can create company profile from user dashboard
-      • User accept or reject reason notification by mail
-      • User can login by social media
-      • Share news by social media
-      • Search news by category or navbar search option
+<b>News blog + User can create company profile (Laravel)</b> <br>
+Visit: https://newsblog.maaitgroup.com <br>
+      - Fully dynamic news blog <br>
+      - Admin can create news and update all information this site and accept and reject user <br>
+      company profile and admin update user company info <br>
+      • User can create company profile from user dashboard <br>
+      • User accept or reject reason notification by mail <br>
+      • User can login by social media <br>
+      • Share news by social media <br>
+      • Search news by category or navbar search option <br>
 
 
 
