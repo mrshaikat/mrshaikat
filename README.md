@@ -36,7 +36,7 @@ Visit: https://newsblog.maaitgroup.com <br>
       - Search news by category or navbar search option <br> <br>
       
      <b>Bank Management System built by C programming language(C)</b> <br>
-      Visit: https://github.com/mrshaikat/bankmanagement-system-with-c-programming
+      Visit: https://github.com/mrshaikat/bankmanagement-system-with-c-programming <br>
 
 
 
