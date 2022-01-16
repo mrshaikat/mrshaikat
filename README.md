@@ -5,12 +5,12 @@ I have been interesting to develop a new website with new features. I can handle
 
 <h4>Skills: VUE JS / JS / HTML / CSS / PHP / DATA STRUCTURE / OOP/ MYSQL / LARAVEL / BOOTSTRAP / TAILWIND CSS / C / PROBLEM SOLVING </h4>
 
-###Project
-#Fully Responsive Design (Html + CSS + jQuery Project + JavaScript)
-Visit: https://bookingsystem.cart.maaitgroup.com/
-Visit: https://fullyresponsive1demoproject.maaitgroup.com/
-Visit: https://fullyresponsive2demoproject.maaitgroup.com/
-Visit: https://fullyresponsive3demoproject.maaitgroup.com/
+<h2>Project</h2> <br>
+Fully Responsive Design (Html + CSS + jQuery Project + JavaScript) <br>
+Visit: https://bookingsystem.cart.maaitgroup.com/ <br>
+Visit: https://fullyresponsive1demoproject.maaitgroup.com/ <br>
+Visit: https://fullyresponsive2demoproject.maaitgroup.com/ <br>
+Visit: https://fullyresponsive3demoproject.maaitgroup.com/ <br>
 
 - 🔭 I’m currently working on Laravel. 
 - 💬 Ask me about Web Development. 
