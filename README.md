@@ -8,21 +8,32 @@ I have been interesting to develop a new website with new features. I can handle
 - 💬 Ask me about Web Development. 
 
 <h2>Project</h2>
-Fully Responsive Design (Html + CSS + jQuery Project + JavaScript) <br>
-Visit: https://bookingsystem.cart.maaitgroup.com/ <br>
-Visit: https://fullyresponsive1demoproject.maaitgroup.com/ <br>
-Visit: https://fullyresponsive2demoproject.maaitgroup.com/ <br>
-Visit: https://fullyresponsive3demoproject.maaitgroup.com/ <br>
+<b>Fully Responsive Design (Html + CSS + jQuery Project + JavaScript) </b> <br>
+      Visit: https://bookingsystem.cart.maaitgroup.com/ <br>
+      Visit: https://fullyresponsive1demoproject.maaitgroup.com/ <br>
+      Visit: https://fullyresponsive2demoproject.maaitgroup.com/ <br>
+      Visit: https://fullyresponsive3demoproject.maaitgroup.com/ <br>
 
-####Inventory Management System with POS (Laravel) <br>
+<b>Inventory Management System with POS (Laravel)</b> <br>
 Visit: https://inventory.maaitgroup.com <br>
-• Login / Registration and Password reset with confirmation message. <br>
-• POS with Inventory. <br>
-• Product and category add. <br>
-• Product add to cart with quantity and total price. <br>
-• Supplier, Customer, Employee’s add. <br>
-• Shop setting, Daily, Monthly and Yearly expense. <br>
-• Employee’s attendance and salary details. <br>
+      • Login / Registration and Password reset with confirmation message. <br>
+      • POS with Inventory. <br>
+      • Product and category add. <br>
+      • Product add to cart with quantity and total price. <br>
+      • Supplier, Customer, Employee’s add. <br>
+      • Shop setting, Daily, Monthly and Yearly expense. <br>
+      • Employee’s attendance and salary details. <br>
+
+<b>News blog + User can create company profile (Laravel)</b>
+Visit: https://newsblog.maaitgroup.com
+      • Fully dynamic news blog
+      • Admin can create news and update all information this site and accept and reject user
+      company profile and admin update user company info
+      • User can create company profile from user dashboard
+      • User accept or reject reason notification by mail
+      • User can login by social media
+      • Share news by social media
+      • Search news by category or navbar search option
 
 
 
