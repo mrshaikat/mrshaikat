@@ -12,28 +12,31 @@ I have been interesting to develop a new website with new features. I can handle
       Visit: https://bookingsystem.cart.maaitgroup.com/ <br>
       Visit: https://fullyresponsive1demoproject.maaitgroup.com/ <br>
       Visit: https://fullyresponsive2demoproject.maaitgroup.com/ <br>
-      Visit: https://fullyresponsive3demoproject.maaitgroup.com/ <br>
+      Visit: https://fullyresponsive3demoproject.maaitgroup.com/ <br> <br>
 
 <b>Inventory Management System with POS (Laravel)</b> <br>
 Visit: https://inventory.maaitgroup.com <br>
-      • Login / Registration and Password reset with confirmation message. <br>
-      • POS with Inventory. <br>
-      • Product and category add. <br>
-      • Product add to cart with quantity and total price. <br>
-      • Supplier, Customer, Employee’s add. <br>
-      • Shop setting, Daily, Monthly and Yearly expense. <br>
-      • Employee’s attendance and salary details. <br>
+      - Login / Registration and Password reset with confirmation message. <br>
+      - POS with Inventory. <br>
+      - Product and category add. <br>
+      - Product add to cart with quantity and total price. <br>
+      - Supplier, Customer, Employee’s add. <br>
+      - Shop setting, Daily, Monthly and Yearly expense. <br>
+      - Employee’s attendance and salary details. <br><br>
 
 <b>News blog + User can create company profile (Laravel)</b> <br>
 Visit: https://newsblog.maaitgroup.com <br>
       - Fully dynamic news blog <br>
       - Admin can create news and update all information this site and accept and reject user <br>
-      company profile and admin update user company info <br>
-      • User can create company profile from user dashboard <br>
-      • User accept or reject reason notification by mail <br>
-      • User can login by social media <br>
-      • Share news by social media <br>
-      • Search news by category or navbar search option <br>
+      company profile and admin update user company info 
+      - User can create company profile from user dashboard <br>
+      - User accept or reject reason notification by mail <br>
+      - User can login by social media <br>
+      - Share news by social media <br>
+      - Search news by category or navbar search option <br> <br>
+      
+     <b>Bank Management System built by C programming language(C)</b> <br>
+      Visit: https://github.com/mrshaikat/bankmanagement-system-with-c-programming
 
 
 
