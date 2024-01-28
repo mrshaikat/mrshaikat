@@ -1,9 +1,7 @@
 ### Hi there 👋, my name is Ashikujjaman Shaikat.
 #### Software Engineer.
 
-I have been interested in developing a new website with new features. I can handle complications with my dedication. I like learning new things and am curious about Web Development. 
+I am keen to develop a new website with advanced features. I am dedicated to overcoming challenges and enjoy learning new skills, especially in web development. 
 
-<h4>Skills:Javascript | Reactjs | Nextjs | Typescript | Nodejs | Expressjs | MongoDB </h4>
-- 🔭 I’m currently working on MERN. <br>
-- 💬 Ask me about Web Development. 
+<h4>I have a strong knowledge of JavaScript, React.js, Next.js, TypeScript, Node.js, Express.js, and MongoDB. Currently, I am working on MERN. <br>
 
