@@ -2,7 +2,7 @@
 
 🚀 **Senior Software Engineer**  
 📍 Dhaka, Bangladesh  
-📧 ashikujjaman.shaikat.cse@gmail.com 
+📧 ashikujjaman.shaikat.cse@gmail.com</br>
 📱 01919430500  
 🎓 Daffodil International University  
 🔗 [LinkedIn](https://www.linkedin.com/in/shaikat63) | [GitHub](https://github.com/mrshaikat)
