@@ -2,7 +2,7 @@
 
 🚀 **Senior Software Engineer**  
 📍 Dhaka, Bangladesh  
-📧 mrshaikat0.cse@gmail.com  
+📧 ashikujjaman.shaikat.cse@gmail.com 
 📱 01919430500  
 🎓 Daffodil International University  
 🔗 [LinkedIn](https://www.linkedin.com/in/shaikat63) | [GitHub](https://github.com/mrshaikat)
@@ -27,6 +27,7 @@ With a strong background in **system design**, **AI integration**, and modern de
 - JavaScript
 - Tailwind CSS
 - Material UI
+- Ant Design
 - NgRx
 
 ### Backend Development
@@ -50,6 +51,15 @@ With a strong background in **system design**, **AI integration**, and modern de
 - Redux
 - Zustand
 - NgRx
+
+  ### Development Process
+- JIRA
+- Redmine
+- Agile/Scrum
+
+  ### Communication 
+- Teams
+- Slack
 
 ---
 
